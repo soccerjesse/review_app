@@ -1,24 +1,13 @@
-# README
+名前: カフェレビュー
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+詳細: 家の近くにあるカフェをレビューしたり、見たりする。
 
-Things you may want to cover:
+使用gem一覧
 
-* Ruby version
+ruby '2.6.9'
 
-* System dependencies
+gem 'rails', '~> 5.2.1'
 
-* Configuration
+gem 'devise'
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+gem 'bulma-rails'
